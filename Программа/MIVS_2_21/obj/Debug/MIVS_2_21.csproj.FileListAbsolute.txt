@@ -1,0 +1,9 @@
+C:\Users\Георгий\source\repos\MIVS_2_21\MIVS_2_21\obj\Debug\MIVS_2_21.csprojAssemblyReference.cache
+C:\Users\Георгий\source\repos\MIVS_2_21\MIVS_2_21\obj\Debug\MIVS_2_21.Form1.resources
+C:\Users\Георгий\source\repos\MIVS_2_21\MIVS_2_21\obj\Debug\MIVS_2_21.Properties.Resources.resources
+C:\Users\Георгий\source\repos\MIVS_2_21\MIVS_2_21\obj\Debug\MIVS_2_21.csproj.GenerateResource.cache
+C:\Users\Георгий\source\repos\MIVS_2_21\MIVS_2_21\bin\Debug\MIVS_2_21.exe.config
+C:\Users\Георгий\source\repos\MIVS_2_21\MIVS_2_21\bin\Debug\MIVS_2_21.exe
+C:\Users\Георгий\source\repos\MIVS_2_21\MIVS_2_21\bin\Debug\MIVS_2_21.pdb
+C:\Users\Георгий\source\repos\MIVS_2_21\MIVS_2_21\obj\Debug\MIVS_2_21.exe
+C:\Users\Георгий\source\repos\MIVS_2_21\MIVS_2_21\obj\Debug\MIVS_2_21.pdb
